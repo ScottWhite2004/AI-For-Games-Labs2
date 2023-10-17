@@ -1,0 +1,31 @@
+G:\Lab Work\AI For Games Lab\AI For Games Lab\bin\Debug\net6.0\AI For Games Lab.exe
+G:\Lab Work\AI For Games Lab\AI For Games Lab\bin\Debug\net6.0\AI For Games Lab.deps.json
+G:\Lab Work\AI For Games Lab\AI For Games Lab\bin\Debug\net6.0\AI For Games Lab.runtimeconfig.json
+G:\Lab Work\AI For Games Lab\AI For Games Lab\bin\Debug\net6.0\AI For Games Lab.dll
+G:\Lab Work\AI For Games Lab\AI For Games Lab\bin\Debug\net6.0\AI For Games Lab.pdb
+G:\Lab Work\AI For Games Lab\AI For Games Lab\bin\Debug\net6.0\MonoGame.Framework.dll
+G:\Lab Work\AI For Games Lab\AI For Games Lab\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+G:\Lab Work\AI For Games Lab\AI For Games Lab\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+G:\Lab Work\AI For Games Lab\AI For Games Lab\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+G:\Lab Work\AI For Games Lab\AI For Games Lab\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+G:\Lab Work\AI For Games Lab\AI For Games Lab\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+G:\Lab Work\AI For Games Lab\AI For Games Lab\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+G:\Lab Work\AI For Games Lab\AI For Games Lab\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+G:\Lab Work\AI For Games Lab\AI For Games Lab\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+G:\Lab Work\AI For Games Lab\AI For Games Lab\obj\Debug\net6.0\AI For Games Lab.csproj.AssemblyReference.cache
+G:\Lab Work\AI For Games Lab\AI For Games Lab\obj\Debug\net6.0\AI For Games Lab.GeneratedMSBuildEditorConfig.editorconfig
+G:\Lab Work\AI For Games Lab\AI For Games Lab\obj\Debug\net6.0\AI For Games Lab.AssemblyInfoInputs.cache
+G:\Lab Work\AI For Games Lab\AI For Games Lab\obj\Debug\net6.0\AI For Games Lab.AssemblyInfo.cs
+G:\Lab Work\AI For Games Lab\AI For Games Lab\obj\Debug\net6.0\AI For Games Lab.csproj.CoreCompileInputs.cache
+G:\Lab Work\AI For Games Lab\AI For Games Lab\obj\Debug\net6.0\AI For Games Lab.csproj.CopyComplete
+G:\Lab Work\AI For Games Lab\AI For Games Lab\obj\Debug\net6.0\AI For Games Lab.dll
+G:\Lab Work\AI For Games Lab\AI For Games Lab\obj\Debug\net6.0\refint\AI For Games Lab.dll
+G:\Lab Work\AI For Games Lab\AI For Games Lab\obj\Debug\net6.0\AI For Games Lab.pdb
+G:\Lab Work\AI For Games Lab\AI For Games Lab\obj\Debug\net6.0\AI For Games Lab.genruntimeconfig.cache
+G:\Lab Work\AI For Games Lab\AI For Games Lab\obj\Debug\net6.0\ref\AI For Games Lab.dll
+G:\Lab Work\AI For Games Lab\AI For Games Lab\bin\Debug\net6.0\ImGui.NET.dll
+G:\Lab Work\AI For Games Lab\AI For Games Lab\bin\Debug\net6.0\MonoGame.ImGui.Net6.dll
+G:\Lab Work\AI For Games Lab\AI For Games Lab\bin\Debug\net6.0\runtimes\linux-x64\native\libcimgui.so
+G:\Lab Work\AI For Games Lab\AI For Games Lab\bin\Debug\net6.0\runtimes\osx-universal\native\libcimgui.dylib
+G:\Lab Work\AI For Games Lab\AI For Games Lab\bin\Debug\net6.0\runtimes\win-x64\native\cimgui.dll
+G:\Lab Work\AI For Games Lab\AI For Games Lab\bin\Debug\net6.0\runtimes\win-x86\native\cimgui.dll

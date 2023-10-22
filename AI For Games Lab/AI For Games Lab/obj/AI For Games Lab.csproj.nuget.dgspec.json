@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Lab Work\\AI For Games Lab\\AI For Games Lab\\AI For Games Lab.csproj": {}
+    "G:\\Lab Work\\Shape\\AI For Games Lab\\AI For Games Lab\\AI For Games Lab.csproj": {}
   },
   "projects": {
-    "G:\\Lab Work\\AI For Games Lab\\AI For Games Lab\\AI For Games Lab.csproj": {
+    "G:\\Lab Work\\Shape\\AI For Games Lab\\AI For Games Lab\\AI For Games Lab.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Lab Work\\AI For Games Lab\\AI For Games Lab\\AI For Games Lab.csproj",
+        "projectUniqueName": "G:\\Lab Work\\Shape\\AI For Games Lab\\AI For Games Lab\\AI For Games Lab.csproj",
         "projectName": "AI For Games Lab",
-        "projectPath": "G:\\Lab Work\\AI For Games Lab\\AI For Games Lab\\AI For Games Lab.csproj",
+        "projectPath": "G:\\Lab Work\\Shape\\AI For Games Lab\\AI For Games Lab\\AI For Games Lab.csproj",
         "packagesPath": "C:\\Users\\712769\\.nuget\\packages\\",
-        "outputPath": "G:\\Lab Work\\AI For Games Lab\\AI For Games Lab\\obj\\",
+        "outputPath": "G:\\Lab Work\\Shape\\AI For Games Lab\\AI For Games Lab\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
